@@ -46,7 +46,9 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="40" height="40"/>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="file:///C:/Users/user/Downloads/teamcity.svg" title="Jira" alt="Jira" width="40" height="40"/>
 </div>
+
 
 ### My latest project:
 #### Ui tests:
