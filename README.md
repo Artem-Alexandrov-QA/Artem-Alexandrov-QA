@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intelij_IDEA" alt="Intelij_IDEA" width="50" height="50"/>&nbsp;
