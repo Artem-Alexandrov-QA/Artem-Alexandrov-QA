@@ -1,5 +1,5 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA)
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="100">
 
 
 <div id="header" align="center">
