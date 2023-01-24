@@ -1,8 +1,5 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
 	<h1>:wave:Hi there, Welcome to my GitHub</h1>
 	<h3>I'm Artem, Fullstack QA Engineer from Samara </h3>
 </div>
@@ -29,7 +26,7 @@
 
 <h3 align="left">My technology stack:</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="5" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intelij_IDEA" alt="Intelij_IDEA" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
