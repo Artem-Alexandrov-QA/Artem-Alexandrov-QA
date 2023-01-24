@@ -71,7 +71,7 @@
 
 ### My latest project:
 #### Ui tests:
-#### - [Проект с автотестами для сайта: demoqa.com'](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
+#### - [Project with autotests for the site: demoqa.com'](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
 
 
 ### :email:	Connect with me:
