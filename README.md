@@ -32,13 +32,13 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/RedHatGov/redhatgov.github/blob/master/_images/OpenShift-logo.svg" width="40" height="40"><br>OpenShift</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"width="40" height="40"><br>Kubernetes</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="40" height="40"><br>Jira</td>
-<td align="center"><src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="40" height="40"><br>Confluence</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="40" height="40"><br>Confluence</td>
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://developer.asustor.com/uploadIcons/0020_96009_1552971827_pgadmin-icon.png" width="40" height="40"><br>PgAdmin</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" width="40" height="40"><br>MSSQL</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="40" height="40"><br>DBeaver</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://commons.wikimedia.org/wiki/File:Test_IT_logo.png" width="40" height="40"><br>Test_IT</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Test_IT_logo.png" width="40" height="40"><br>Test_IT</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://www.megaleechers.com/storage/Fiddler-Classic-Icon.png" width="40" height="40"><br>Fiddler</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" width="40" height="40"><br>Kibana</td>
 </tbody>
