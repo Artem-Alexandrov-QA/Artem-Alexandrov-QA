@@ -23,31 +23,50 @@
 🌐&nbsp;API Automation
 
 ---
+### My manual testing technology stack
+<table>
+<tbody>
+<tr>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40" height="40"><br>Postman</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/JetBrains/logos/blob/master/web/teamcity/teamcity.svg" width="40" height="40"><br>Teamcity</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/RedHatGov/redhatgov.github/blob/master/_images/OpenShift-logo.svg" width="40" height="40"><br>OpenShift</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"width="40" height="40"><br>Kubernetes</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="40" height="40"><br>Jira</td>
+<td align="center"><src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="40" height="40"><br>Confluence</td>
+</tr>
+<tr>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://developer.asustor.com/uploadIcons/0020_96009_1552971827_pgadmin-icon.png" width="40" height="40"><br>PgAdmin</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" width="40" height="40"><br>MSSQL</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="40" height="40"><br>DBeaver</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://commons.wikimedia.org/wiki/File:Test_IT_logo.png" width="40" height="40"><br>Test_IT</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://www.megaleechers.com/storage/Fiddler-Classic-Icon.png" width="40" height="40"><br>Fiddler</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" width="40" height="40"><br>Kibana</td>
+</tbody>
+</table>
 
-### My technology stack:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intelij_IDEA" alt="Intelij_IDEA" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="50 height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide " width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg"  title="Selenoid" alt="Selenoid" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium" alt="Appium" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
-</div>
-<div>
- <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" title="Docker"  alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" title="Browserstack"  alt="Browserstack" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure_Report" alt="Allure_Report" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="50" height="50"/>
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="50" height="50"/>
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/>
-  <img src="https://github.com/JetBrains/logos/blob/master/web/teamcity/teamcity.svg" title="teamcity" alt="teamcity" width="50" height="50"/>
-  <img src="https://github.com/RedHatGov/redhatgov.github/blob/master/_images/OpenShift-logo.svg" title="OpenShift" alt="OpenShift" width="50" height="50"/>
-</div>
+### My test automation technology stack
+<table>
+<tbody>
+<tr>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40"><br>Java</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" width="40" height="40"><br>Gradle</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://user-images.githubusercontent.com/47101779/210963191-4a3df255-fcac-418b-a903-eada87d84120.png" width ="40" height="40"><br>Selenide</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg" width ="40" height="40"><br>Selenium</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://avatars.githubusercontent.com/u/26328913?s=280&v=4" width="40" height="40"><br>Selenoid</td>
+</tr>
+<tr>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"><br>Github</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" width="40" height="40"><br>Allure Report</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"><br>Allure TestOps</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40"><br>Telegram Bot</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" width="40" height="40"><br>Rest-Assured</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" width="40" height="40"><br>Appium</td>
+</tr>
+</tbody>
+</table>
 
 
 ### My latest project:
