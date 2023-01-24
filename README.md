@@ -38,7 +38,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://developer.asustor.com/uploadIcons/0020_96009_1552971827_pgadmin-icon.png" width="40" height="40"><br>PgAdmin</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" width="40" height="40"><br>MSSQL</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="40" height="40"><br>DBeaver</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Test_IT_logo.png" width="50" height="50"><br>Test_IT</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Test_IT_logo.png" width="40" height="40"><br>Test_IT</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://www.megaleechers.com/storage/Fiddler-Classic-Icon.png" width="40" height="40"><br>Fiddler</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" width="40" height="40"><br>Kibana</td>
 </tbody>
