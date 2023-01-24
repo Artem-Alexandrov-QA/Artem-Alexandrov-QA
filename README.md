@@ -82,11 +82,4 @@ _Thank you for your attention_
 ___
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artem-Alexandrov-QA&theme=github)
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif" width="1200" height="40"/>
-</div>
-
 
