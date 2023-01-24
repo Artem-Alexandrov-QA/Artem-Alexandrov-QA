@@ -4,7 +4,7 @@
 	<h3>I'm Artem, Fullstack QA Engineer </h3>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
 
 ### :man_technologist: About Me :
