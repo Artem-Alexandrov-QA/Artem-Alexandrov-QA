@@ -33,7 +33,7 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide " width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg"  title="Selenoid" alt="Selenoid" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="50" height="50"/>&nbsp;/n
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium" alt="Appium" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
 </div>
