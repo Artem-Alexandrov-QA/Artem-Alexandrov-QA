@@ -86,7 +86,7 @@ ___
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="1200" height="50"/>
+  <img src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif" width="1400" height="50"/>
 </div>
 
 
