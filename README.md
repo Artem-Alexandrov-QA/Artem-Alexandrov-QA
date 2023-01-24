@@ -1,6 +1,10 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA)
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+
+
 <div id="header" align="center">
 	<h1>:wave:Hi there, Welcome to my GitHub</h1>
-	<h3>I'm Artem, Fullstack QA Engineer from Samara :ru:</h3>
+	<h3>I'm Artem, Fullstack QA Engineer from Samara </h3>
 </div>
 
 - :trophy: I have over **2 years experience in QA**
