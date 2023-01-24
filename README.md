@@ -22,8 +22,6 @@
 
 🌐&nbsp;API Automation
 
-📱&nbsp;&nbsp;Mobile Automation
-
 ---
 
 ### Languages and Tools :
