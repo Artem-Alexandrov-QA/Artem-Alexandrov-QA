@@ -33,7 +33,7 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide " width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg"  title="Selenoid" alt="Selenoid" width="50" height="50"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="50" height="50"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="50" height="50"/>&nbsp;/n
   <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium" alt="Appium" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" title="Docker"  alt="Docker" width="50" height="50"/>&nbsp;
@@ -45,6 +45,9 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/>
   <img src="https://github.com/JetBrains/logos/blob/master/web/teamcity/teamcity.svg" title="teamcity" alt="teamcity" width="50" height="50"/>
   <img src="https://github.com/RedHatGov/redhatgov.github/blob/master/_images/OpenShift-logo.svg" title="OpenShift" alt="OpenShift" width="50" height="50"/>
+</div>
+<div>
+<img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="50" height="50"/>
 </div>
 
 
