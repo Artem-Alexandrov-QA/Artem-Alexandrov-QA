@@ -85,3 +85,8 @@ ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artem-Alexandrov-QA&theme=github)
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="1200" height="50"/>
+</div>
+
+
