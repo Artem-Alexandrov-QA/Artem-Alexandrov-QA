@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA)
 <div id="header" align="center">
-	<h1>:wave:Hi there, Welcome to my GitHub</h1>
+	<h2>:wave:Hi there, Welcome to my GitHub</h2>
 	<h3>I'm Artem, Fullstack QA Engineer </h3>
 </div>
 <div align="center">
