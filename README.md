@@ -38,22 +38,15 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg"  title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" title="Browserstack"  alt="Browserstack" width="40" height="40"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure_Report" alt="Allure_Report" width="40" height="40"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="40" height="40"/>
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>
 </div>
-
-
-| IntelliJ IDEA | Java | Gradle | Junit5 | Selenium | Selenide | Selenoid |                                          Rest-Assured                                          | Appium |
-|:------:|:----:|:----:|:------:|:------:|:------:|:------:|:----------------------------------------------------------------------------------------------:|:------:|
-| <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Java.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" width="50" height="50"> |
-
-| GitHub | Jenkins | Docker | Browserstack | Allure Report | Allure TestOps | Slack | Telegram | Jira |
-|:------:|:----:|:----:|:------:|:------:|:--------:|:------:|:------:|:------:|
-| <img src="https://starchenkov.pro/qa-guru/img/skills/Github.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" width="60" height="60"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="50" height="50"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="50" height="50"> |
 
 ### My latest project:
 #### Ui tests:
