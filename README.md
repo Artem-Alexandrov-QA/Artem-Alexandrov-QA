@@ -36,6 +36,7 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="50" height="50"/>&nbsp;/n
   <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium" alt="Appium" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
+</div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg" title="Docker"  alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" title="Browserstack"  alt="Browserstack" width="50" height="50"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure_Report" alt="Allure_Report" width="50" height="50"/>&nbsp;
@@ -45,9 +46,9 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/>
   <img src="https://github.com/JetBrains/logos/blob/master/web/teamcity/teamcity.svg" title="teamcity" alt="teamcity" width="50" height="50"/>
   <img src="https://github.com/RedHatGov/redhatgov.github/blob/master/_images/OpenShift-logo.svg" title="OpenShift" alt="OpenShift" width="50" height="50"/>
-</div>
+
 <div>
-<img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="50" height="50"/>
+
 </div>
 
 
