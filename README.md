@@ -30,6 +30,9 @@
 - Project with autotests for the site:[ demoqa.com](https://github.com/Artem-Alexandrov-QA/demoqa-AllureAndJenkins-tests)
 - Project with autotests for the site:[ cinimex.ru](https://github.com/Artem-Alexandrov-QA/cinimex_tests.git)
 
+#### Api tests:
+- Project with API autotests for the site:[ https://reqres.in/](https://github.com/Artem-Alexandrov-QA/regresInAPI-tests)
+
 ### Connect with me:
 - [Telegram](https://t.me/artemalexandrov09)
 - Email: artemaleksandrov2676@gmail.com
