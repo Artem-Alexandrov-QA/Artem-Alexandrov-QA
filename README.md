@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Artem-Alexandrov-QA&color=161B22)
 <div align="center">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/header.png" />
+  <img src="https://github.com/Artem-Alexandrov-QA/Artem-Alexandrov-QA/blob/main/Header.jpg" />
 </div>
 
 ### About me:
@@ -17,12 +17,12 @@
 
 ### My manual testing technology stack
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Manual_black.png" />
+  <img src="https://github.com/Artem-Alexandrov-QA/Artem-Alexandrov-QA/blob/main/ManualStack.jpg" />
 </div>
 
 ### My test automation technology stack
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/Auto_black.png" />
+  <img src="https://github.com/Artem-Alexandrov-QA/Artem-Alexandrov-QA/blob/main/AutomationStack.jpg" />
 </div>
 
 ### My latest project
@@ -38,7 +38,7 @@
 - Email: artemaleksandrov2676@gmail.com
 
 <div align="left">
-  <img src="https://github.com/elf-elf/elf-elf/blob/main/footer.png" />
+  <img src="https://github.com/Artem-Alexandrov-QA/Artem-Alexandrov-QA/blob/main/Footer.png" />
 </div>
 
 
