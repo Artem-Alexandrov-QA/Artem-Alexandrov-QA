@@ -33,6 +33,9 @@
 #### Api tests:
 - Project with API autotests for the site:[ https://reqres.in/](https://github.com/Artem-Alexandrov-QA/regresInAPI-tests)
 
+#### Mobile tests:
+- Project Mobile android app autotests:[https://github.com/wikimedia](https://github.com/Artem-Alexandrov-QA/mobileWikipedia.git)
+
 ### Connect with me:
 - [Telegram](https://t.me/artemalexandrov09)
 - Email: artemaleksandrov2676@gmail.com
