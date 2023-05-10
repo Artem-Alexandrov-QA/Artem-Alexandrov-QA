@@ -31,10 +31,10 @@
 - Project with autotests for the site:[ cinimex.ru](https://github.com/Artem-Alexandrov-QA/cinimex_tests.git)
 
 #### Api tests:
-- Project with API autotests for the site:[https://petstore.swagger.io/](https://github.com/Artem-Alexandrov-QA/petstoreAPI-tests.git)
+- Project with API autotests for the site:[ petstore.swagger.io/](https://github.com/Artem-Alexandrov-QA/petstoreAPI-tests.git)
 
 #### Mobile tests:
-- Project Mobile android app autotests:[https://github.com/wikimedia](https://github.com/Artem-Alexandrov-QA/mobileWikipedia.git)
+- Project Mobile android app autotests:[ github.com/wikimedia](https://github.com/Artem-Alexandrov-QA/mobileWikipedia.git)
 
 ### Connect with me:
 - [Telegram](https://t.me/artemalexandrov09)
