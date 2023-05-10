@@ -31,7 +31,7 @@
 - Project with autotests for the site:[ cinimex.ru](https://github.com/Artem-Alexandrov-QA/cinimex_tests.git)
 
 #### Api tests:
-- Project with API autotests for the site:[ https://reqres.in/](https://github.com/Artem-Alexandrov-QA/regresInAPI-tests)
+- Project with API autotests for the site:[https://petstore.swagger.io/](https://github.com/Artem-Alexandrov-QA/petstoreAPI-tests.git)
 
 #### Mobile tests:
 - Project Mobile android app autotests:[https://github.com/wikimedia](https://github.com/Artem-Alexandrov-QA/mobileWikipedia.git)
